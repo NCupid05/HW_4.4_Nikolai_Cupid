@@ -1,10 +1,10 @@
 # Project Title
 
-Write a 1-2 sentences that quickly and clearly convey what your repo is for.
+This Repo contains the work done on HW 4.3, a QMD file.
 
 ## Overview
 
-Expand on those introductory sentences with a brief but informative description of your project's purpose and goals. This section should help visitors decide whether they should dig deeper into your repo/project.
+This repo contains the QMD file that was completed in HW 4.3. The original QMD file contains information gathered from the Busiest Airport data set. Creating a plot to reach a conclusion from said data set. Repeated the process with Monte Integration and had a code annex at the end of the file.
 
 ### Interesting Insight (Optional)
 
@@ -12,17 +12,16 @@ This is optional but highly recommended. You'll include one interesting insight 
 
 ## Data Sources and Acknowledgements
 
-Be sure to list where you got any data used within the project. Be sure to acknowledge any one whose work or elements you're drawing upon.
+Got all of the data from HW 3.3. Using some of the provided solutions along with the plots/graphs created.
 
 ## Current Plan
 
-Provide some information about what you intend to doe with the project. You can additionally refer the visitor to your detailed plan document.
+The point of this project is to put the information (specifically in the QMD file) from HW 4.3 into a git repository.
 
 ## Repo Structure
 
-Use this section to explain the structure of your repo. This should help visitors quickly figure out where they should look to find certain elements. Further, you can use this space to highlight and briefly explain important/key files in the repo.
-
+The repo will have the README (this file) that explains the overall plan and point of creating this repository. Will have the original QMD file along with the pdf and some of the plots/graphs.
 
 ## Authors
 
-Give information about who are the authors of the project and how people can get in touch if they have questions.
+Nikolai Cupid, email: trinicruzball@icloud.com
